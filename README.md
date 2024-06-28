@@ -104,10 +104,3 @@ npm install
 npm run start
 ```
 
-## Team Members
-
-- [Sharun](https://github.com/SHARUN266)
-- [Onkar](https://github.com/Onkar271998)
-- [Utkarsh](https://github.com/utkarshqw)
-- [Vivek](https://github.com/Vivek-Nemade)
-- [Hurmit](https://github.com/hurmitg) `(TL)`
